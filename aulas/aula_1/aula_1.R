@@ -101,4 +101,4 @@ source(chuchu.R)
 setwd("C:/CavernaDoDragão")
 getwd
 Getwd()
-#dica: quando o R der erro, copie e cole a mensagem de erro no google
+#dica: quando o R der erro, copie e cole a mensagem de erro no google (e nao pentelhe os monitores!)
